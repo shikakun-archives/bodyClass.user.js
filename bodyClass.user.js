@@ -20,7 +20,7 @@ $(function() {
     }
   });
 
-  if ($.param_value('AddBodyClass')) {
-    $('body').addClass(decodeURI($.param_value('AddBodyClass')));
+  if ($.param_value('bodyClass')) {
+    $('body').addClass(decodeURI($.param_value('bodyClass')));
   }
 });
