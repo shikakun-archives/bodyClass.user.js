@@ -3,6 +3,7 @@
 // @namespace     https://github.com/shikakun/bodyClass.user.js
 // @description   URL パラメータ bodyClass に指定した値を body タグに class として出力します。
 // @include       http://*
+// @include       https://*
 // @require       http://code.jquery.com/jquery-1.10.2.min.js
 // @grant         none
 // ==/UserScript==
